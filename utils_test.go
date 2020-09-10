@@ -1,0 +1,1 @@
+package goes_amqp
